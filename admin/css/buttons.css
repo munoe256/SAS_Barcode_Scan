@@ -1,0 +1,154 @@
+/* CSS Document */
+
+button {
+	display: block;
+	width: 80px;
+	height: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	border: 1px groove #74ABF7;
+	border-radius: 3px;
+	font-size: 9px;
+	color: #fff;
+	background-color: #74ABF7;
+	}
+	
+button:hover{
+	background-color: #A1E0FB;
+	}
+
+button i {
+	font-size: 12px;
+	margin-right: 10px;
+	//color: #74ABF7;
+	}
+.left-pane-buttons {
+	display: none;
+	}
+	
+.btn_view_more {
+	width: 40px;
+	height: 20px;
+	font-size: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	line-height: 15px;
+	}
+	
+.btn_delete {
+	width: 40px;
+	height: 20px;
+	font-size: 10px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	line-height: 15px;
+	color: white;
+	background-color: red;
+	border-color: white;
+	}
+	
+.btn {
+	display:inline-table;
+	}
+	
+table {
+	border: 0px solid;
+	margin-top: 20px;
+	padding-top: 5px;
+	}
+	
+.table-bordered {
+	border: 0px solid #74ABF7;
+	font-size: 12px;
+	margin-left: 70px;
+	}
+	
+.table-bordered th{
+	border: 1px solid #74ABF7;
+	height: 30px;
+	line-height: 30px;
+	text-align: left;
+	padding-left: 10px;
+	width: 150px;
+	}
+	
+.table-bordered tr{
+	
+	
+	}
+.table-bordered .top-row{
+	border: 0px solid #74ABF7;
+	position: fixed;
+	
+	}
+
+.table-bordered td{
+	border: 1px solid #74ABF7;
+	padding-left: 10px;
+	//color: #74ABF7;
+	color: #807979;
+	line-height: 30px;
+	width: 150px;
+	max-width: 150px;
+	font-size: 10px;
+	max-height: 20px;
+	}
+	
+.table-bordered .column-proname,
+.table-bordered .column-profac
+ {
+	width: 200px;
+	}
+	
+.table-bordered .promod-name {
+	width: 250px;
+	}
+
+.table-bordered .column-modname,
+.table-bordered .column-moddep {
+	width: 220px;
+	}
+	
+table tr .mobile {
+	width: 80px;
+	}
+	
+input{			
+	margin-left: 10px;
+	height: 20px;
+	width: 250px;
+	border: 1px solid #D5D4D4;
+	font-size: 12px;
+	color: #807979;
+	}
+select{			
+	margin-left: 10px;
+	height: 20px;
+	width: 250px;
+	border: 1px solid #D5D4D4;
+	font-size: 12px;
+	color: #807979;
+	}
+.result {
+	display: none;
+	}
+	
+.labels {
+	padding-bottom: 7px;
+	text-align: right;
+	font-size: 12px;
+	}
+.inputs {
+	padding-bottom: 7px;
+	}
+textarea{			
+	margin-left: 10px;
+	height: 20px;
+	width: 248px;
+	border: 1px solid #D5D4D4;
+	font-size: 12px;
+	}
+.liner {
+	border: 1px solid #74ABF7;
+	}

@@ -1,0 +1,67 @@
+/* CSS Document */
+
+#menu-strip {
+	width: 100%;
+	height: 40px;
+	border-bottom: 2px solid #D5D4D4;
+	}
+	#logo-container {
+		width: 10%;
+		height: 40px;
+		margin-left: 5%;
+		float:left;
+		}
+		
+#logo-container img {
+											margin-top: 5px;
+						}
+						
+	#menu-items-container {
+		width: 80%;
+		height: 40px;
+		margin-right: 5%;
+		float:right;
+		}
+					#menu-items-container ul {
+						list-style:none;
+						line-height: 40px;
+						}
+									#menu-items-container ul a{
+										text-decoration: none;
+										color: #666565;
+										}
+									#menu-items-container ul li {
+										float:left;
+										margin-left: 30px;
+										display: block;
+										font-size: 12px;
+										padding: 0px 5px;
+										}
+									#menu-items-container ul #list-right{
+										margin-left: 120px;
+										}
+									/*#menu-items-container ul li:hover {
+										background-color: #5299F9;
+										color: #ffffff;
+										height: 30px;
+										margin-top: 5px;
+										line-height: 30px;
+										padding: 0px 5px;
+										cursor: pointer;
+										}*/
+										
+									#menu-items-container ul li:active {
+										background-color: #5299F9;
+										color: #ffffff;
+										height: 30px;
+										margin-top: 5px;
+										line-height: 30px;
+										padding: 0px 5px;
+										cursor: pointer;
+										}
+													#menu-items-container ul .active{
+																border-bottom: 2px solid #5299F9;
+.active {
+	
+	 border-bottom: 2px solid #5299F9;
+}

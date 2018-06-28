@@ -1,0 +1,49 @@
+.content-area {
+	margin-top: 40px;
+	min-height: 510px;
+	width: 100%;
+	border: 0px solid;
+	}
+.side-menu {
+	float:left;
+	margin-left: 140px;
+	height: 510px;
+	width: 100px;
+	border: 2px solid #D5D4D4;
+	border-radius: 4px;
+	}
+.data-area {
+	float: left;
+	margin-left: 50px;
+	min-height: 510px;
+	width: 910px;
+	border: 2px solid #D5D4D4;
+	}
+	
+		.input-area {
+			height: 300px;
+			width: 910px;
+			border-bottom: 1px solid #D5D4D4;
+			}
+			
+				.guider {
+					height: 300px;
+					width: 50px;
+					float:left;
+					border: 0px solid #D5D4D4;
+					}
+					
+				.textboxes-container{
+					height: 300px;
+					width: 860px;
+					float:left;
+					border: 0px solid #D5D4D4;
+					}
+							
+		.data-grid {
+			height: 210px;
+			width: 910px;
+			border: 1px solid #D5D4D4;
+			overflow-y:scroll;
+			max-height: 210px;
+			}
